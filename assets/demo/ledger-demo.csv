@@ -1,0 +1,12 @@
+Under Group,Name,Wing Flat No,Area Sq Mtr,Area Sq Ft,Contact Number,Whats App Number,Email ID,Pan Card Number,Adhar Number,GST Number,Reside Address,Correspondence Address,Area/Locality,City/District,State,Pin Code,Country,Registartion Date,Opening Balance Debit,Opning Balance Creadit
+Members Contribution Account,C1-101 - demo,C1-101,19.709,,"1234567890,234567899","1234567890,1234567899","demo@gmail.com,test@gmail.com",PAN1234ABC,123456789098,ABC4562,demo,demo,demo,demo,demo,123456,demo,2/2/2022,100,100
+Members Contribution Account,C1-102 - demo1,C1-102,20,,1234567890,"1234567890,",demo@gmail.com,PAN1234ABC,123456789098,ABC4562,demo,demo,demo,demo,demo,123456,demo,2/2/2022,100,100
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,Import Notes,,,,,,,,,,,,,,,,,,,
+,1) Do not change any of above title or not changes must be happen in colums ordering,,,,,,,,,,,,,,,,,,,
+,2) Red color title colum is required other column is not required,,,,,,,,,,,,,,,,,,,
+,3) Remove these import notes while importing to the system,,,,,,,,,,,,,,,,,,,
