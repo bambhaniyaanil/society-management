@@ -1,0 +1,10 @@
+Bill No,Bill Period,Bill Date,Due Date,Arrears,Narration,By Ledger,By Ledger Amount,To Ledger
+143,JAN - MAR - 2020,01-02-2022,10-02-2022,0,test,A1-101 - Nikhil & Swapna Priyadarshini,100,"Service Charge=50,Parking Charges=50"
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,Import Notes,,,,,,,
+,1) TO ledger amount will be saperated by commas,,,,,,,
+,2) Ledger name & and amount must required in presented format as mentioned above,,,,,,,
+,3) Do not change any of above title or no changes must be happen in colums ordering,,,,,,,
+,4) Remove these import notes while importing to the system,,,,,,,
